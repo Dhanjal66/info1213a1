@@ -1,0 +1,265 @@
+*{
+	margin:0;
+	padding:0;
+}	
+.main{
+	width:100%;
+	height:auto;
+    margin:auto;
+}
+.logo{
+	width:40%;
+	height:400px;
+	background-color:#ffe6ff;
+	float:left;
+	text-align: center;
+}
+.logo img{
+	width:350px;
+	border-radius: 50%;
+	border: 5px solid black;
+	margin-top:18px;
+}
+.logo2{
+	width:60%;
+	height:400px;
+	background-color: #ffe6ff;
+	float:right;
+	text-align: center;
+}
+.logo2 h1{ 
+	font-size:55px;
+	color:black;
+	font-weight:500;
+	text-transform:uppercase;	
+    margin-top:100px;
+}
+.logo2 h5{
+	width:40%;
+	height:30px;
+	color:#ffe6ff;
+	font-size:20px;
+	font-weight:500;
+	text-transform:capitalize;
+	margin-top:50px;
+	font-family: 'Indie Flower', cursive;
+	background-color: black;
+	margin: auto;
+}
+#container{
+	width:100%;
+	height:auto;
+	margin-top:25px;
+}
+.skills{
+	width:40%;
+	height: 1300px;
+	background-color: black;
+	float:left;
+}
+.skills h2{
+    color:white;
+    font-size:2em;
+    text-transform:uppercase;
+    text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+.skills hr{
+	width:80%;
+	height:3px;
+	background-color:#ffe6ff;
+	margin-top:22px;
+	margin:auto;
+     }
+.skills p{
+	color:white;
+	font-size:23px;
+	text-align: center;
+	margin-top:12px;
+}
+.contact p{
+	color:white;
+	font-size:23px;
+	text-align:center;
+}
+.contact ul{
+	margin: 0;
+	padding: 0;
+	font-size:25px;
+	text-align: center;
+}
+.expertise img{
+	width:20%;
+	height: 30px;
+}
+.expertise button{
+	margin: 0;
+	padding:0;
+	text-align: center;
+	font-size:25px;
+}
+.expertise button a{
+	padding: 32px;
+    font-family: 'Dancing Script', cursive;
+	color:black;
+	background-color:#ffe6ff; 
+}
+.expertise button a:hover{
+	background-color: black;
+	color:white;
+}
+.profile{
+	width:50%;
+	height:1200px;
+	float:left; 
+	margin-left:80px;
+	text-align: center;
+}
+.profile h2{
+	font-size:32px;
+    text-transform:uppercase;
+    text-align: center; 
+    font-family: 'Ubuntu', sans-serif;
+}
+.profile hr{
+    width:80%;
+    height:3px;
+	background-color:black;
+	margin-top:22px;
+	margin:auto;
+}
+.profile p{
+	color:black;
+	font-size:23px;
+	text-transform: capitalize;
+}
+.experience{
+	text-align: left;
+}
+.experience h3{
+   background-color:#B8A5A1;
+   font-size:28px;
+   color:white;
+}
+.experience h4{
+	width:50%;
+	background-color:#B8A5A1;
+	font-size: 28px;
+	color:white; 
+}
+.experience h5{
+	width:30%;
+	background-color:#B8A5A1;
+	font-size: 28px;
+	color:white; 
+}
+.achievements{
+	text-align: left;
+}
+.achievements h3{
+	background-color:#B8A5A1;
+	font-size:28px;
+	color:white; 
+}
+#sidebar{
+	width:100%;
+	height:auto;
+	margin-top: 25px;
+}
+.interests{
+   width:40%;
+   height:1200px;
+   background-color: black;
+   float:left;
+}
+.interests h2{
+	color:white;
+    font-size:32px;
+    text-transform:uppercase;
+    text-align: center;
+   font-family: 'Ubuntu', sans-serif;
+}
+.interests hr{
+	width:80%;
+	height:3px;
+	background-color:#ffe6ff;
+	margin-top:22px;
+	margin:auto;
+}	
+.interests p{
+    color:white;
+	font-size:23px;
+	text-align: center;
+	margin-top:12px;
+}
+.languages p{
+    color:white;
+	font-size:23px;
+	text-align:center;
+}
+.fix{
+	clear:both;
+}
+.areas{
+	width:50%;
+	height:1200px;
+	float:left; 
+	margin-left:80px;
+	text-align: center;
+}
+.areas h2{
+	font-size:2em;
+    text-transform:uppercase;
+    text-align: center; 
+    font-family: 'Ubuntu', sans-serif;
+}
+.areas hr{
+	width:80%;
+    height:3px;
+	background-color:black;
+	margin-top:22px;
+	margin:auto;
+}
+.areas p{
+	color:black;
+	font-size:23px;
+	text-transform: capitalize;
+	background-color:#ffe6ff;
+	border:1px solid black;
+}
+.personal{
+	text-align:left;
+}
+.personal h2{
+   font-family: 'Ubuntu', sans-serif;
+   font-size:2em;
+   color:black;
+   text-transform:uppercase;
+}
+.personal .graphics hr{
+	width:80%;
+    height:3px;
+	background-color:black;
+	margin-top:22px;
+	margin:auto;
+}
+.personal h4{
+	width:50%;
+	font-size:2em; 
+	color:white; 
+	background-color:#B8A5A1;
+}
+.personal .graphics p{
+	color:black;
+	font-size:2em;
+	text-transform: capitalize;
+}
+.graphics{
+	text-align: left;
+}
+.graphics h4{
+	width:50%;
+	background-color:#B8A5A1;
+	font-size: 2em;
+	color:white; 
+}
